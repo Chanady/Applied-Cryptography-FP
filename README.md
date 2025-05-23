@@ -1,5 +1,5 @@
 # Kryptos: Applied Cryptography Interactive Learning Platform
-
+w
 ![Kryptos Banner](https://github.com/s0y4hh/Applied-Cryptography-FP/blob/main/static/images/banner.png?raw=true)
 
 ## 🌟 Online Access
