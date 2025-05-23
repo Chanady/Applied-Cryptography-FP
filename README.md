@@ -26,15 +26,17 @@ Kryptos is an interactive web application designed to demonstrate and explain va
 
 In today's digital world, cryptography forms the backbone of secure communications, data protection, and privacy. Understanding how these algorithms work is essential for anyone working in cybersecurity, software development, or information technology. Kryptos aims to bridge the gap between theoretical knowledge and practical application by providing a hands-on platform to experiment with cryptographic algorithms in real-time.
 
+With Kryptos, users can understand cryptography on their own and also see it in use, changing basic knowledge into real comprehension.
+
 ## Project Objectives
 
-1. **Educational Enhancement**: Create an intuitive platform that demonstrates cryptographic algorithms in action, making abstract concepts concrete and understandable.
+1. **Educational Enhancement**: Create an intuitive platform that demonstrates cryptographic algorithms in action, making abstract concepts concrete and understandable. Krptos is designed to make cryptography approachable for learners of all level by turning complex mathematical operations into interactive experience. Instead of passively reading formulas or watching static diagram, users can manipulate inputs, view step by step transformations, and immediately see the results of encyption and decryption process. 
 
-2. **Practical Implementation**: Develop working implementations of both classical and modern cryptographic techniques that can process text and file inputs.
+2. **Practical Implementation**: Develop working implementations of both classical and modern cryptographic techniques that can process text and file inputs. They can test these algorithms on real data, just like encryption is used in everday businesses.
 
-3. **Visual Demonstration**: Provide step-by-step visualization of how cryptographic processes transform data, enhancing comprehension of the underlying mathematics.
+3. **Visual Demonstration**: Provide step-by-step visualization of how cryptographic processes transform data, enhancing comprehension of the underlying mathematics.  Those who gain form seeing algebraic operations illustrated in picture will find these visuals very helpful. As algorithms become steps in a dynamic process, Kryptos explains the inner working of cryptographic systems to users so they can both use them and know their purpose. 
 
-4. **Security Awareness**: Highlight the strengths and limitations of different cryptographic approaches to foster better security practices.
+4. **Security Awareness**: Highlight the strengths and limitations of different cryptographic approaches to foster better security practices. it is useful for study and also helps players start practicing good cybersecurity habits.
 
 ## Application Architecture and UI
 
